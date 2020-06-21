@@ -715,7 +715,8 @@ xclip
 .services-inner-box p{
 	font-size: 14px;
 	position: relative;
-	z-index: 1;
+    z-index: 1;
+    color:grey;
 }
 .services-inner-box span{
     font-size: 16px;
@@ -750,7 +751,8 @@ xclip
 	transition: all 0.3s ease-in-out 0s;
 }
 .services-inner-box:hover p{
-	color: #ffffff;
+    color: #ffffff;
+    transition: all 0.3s ease-in-out 0s;
 }
 .services-inner-box:hover span{
     color: black;

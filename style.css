@@ -2644,6 +2644,69 @@ select.mobile-device {
     background-color: black;
 }
 
+#linkedin{
+    margin-top: 175px;
+}
+
+#photu{
+    margin-top: 175px;
+}
+
+#linktocp1{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#linktocp2{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#linktocp3{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.socmedicons{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+@media (max-width: 768px){
+    #linkedin{
+        margin-top: auto;
+        margin-bottom: 50px;
+        width: 100%;
+        text-align: center;        
+    }
+
+    #badge{
+        display: inline-block;        
+    }
+
+    #photu{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    #linktocp1{
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+
+    #linktocp2{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+
+    #linktocp3{
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-top: 25px;
+    }
+}
+
+
 /*
 .conta {
     width: 100%; 
